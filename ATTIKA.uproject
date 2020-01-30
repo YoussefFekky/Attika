@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Reactive_Water",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
