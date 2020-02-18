@@ -73,6 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Unedited starter content
+# Heavy content
 Content/StarterContent/*
 Content/MS_ScaryRestroom/*
+Content/Megascans/*
+Content/MSPresets/*
