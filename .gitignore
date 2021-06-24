@@ -73,11 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Heavy content
-Content/StarterContent/*
-Content/MS_ScaryRestroom/*
-Content/Megascans/*
-Content/MSPresets/*
-
-#Heavy Character
-Content/ThirdPersonBP/Kothr/*
+# Unused assets
+*_ig.*
